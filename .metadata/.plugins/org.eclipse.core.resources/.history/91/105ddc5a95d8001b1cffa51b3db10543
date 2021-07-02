@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>First Form</title>
+	</head>
+	<body>
+		<div align="center">
+			<form action="FirstServlet" method="post">
+				Enter First Name: <input type="text" name="fname">
+				<br/>
+				Enter Last Name : <input type="text" name="lname">
+				<br/>
+				<input type="submit" value="Next">
+			</form>
+		</div>
+	</body>
+</html>

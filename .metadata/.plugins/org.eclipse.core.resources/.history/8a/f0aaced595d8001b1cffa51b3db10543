@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>Third Form</title>
+	</head>
+	<body>
+		<div align="center">
+			<form action="FirstServlet" method="post">
+				Enter Contact: <input type="text" name="fname">
+				<br/>
+				Enter City : <input type="text" name="lname">
+				<br/>
+				<input type="submit" value="Next">
+			</form>
+		</div>
+	</body>
+</html>

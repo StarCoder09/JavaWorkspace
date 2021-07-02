@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.tags.CustomDate.format&apos; in &apos;com.tags.CustomDate&apos;&#x0D;&#x0A;- Original project: &apos;CustomTag_demo&apos;&#x0D;&#x0A;- Original element: &apos;com.tags.CustomDate.format&apos;&#x0D;&#x0A;- Getter method name: &apos;getFormat&apos;&#x0D;&#x0A;- Setter method name: &apos;setFormat&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;format&apos;" flags="589830" getter="getFormat" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;com.tags{CustomDate.java[CustomDate^format" insertion="0" setter="setFormat" stamp="1625129337523" version="1.0" visibility="1"/>
+</session>

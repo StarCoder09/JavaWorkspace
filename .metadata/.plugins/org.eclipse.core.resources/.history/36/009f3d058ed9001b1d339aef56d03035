@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>PAN Registeration</title>
+	</head>
+	<body>
+		<div align="center">
+			<br/>
+			<form action="RegisterServlet" method="post">
+				Enter PAN : <input type="text" name="pan"/>
+				<br/>
+				<input type="submit" value="Validate">
+				<br/>
+			</form>
+		</div>
+	</body>
+</html>
