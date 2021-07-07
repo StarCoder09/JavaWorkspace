@@ -6,4 +6,6 @@
  *
  */
 module hibernate_Demo {
+	requires java.persistence;
+	requires org.hibernate.orm.core;
 }

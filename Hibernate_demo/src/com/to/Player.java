@@ -13,18 +13,18 @@ public class Player {
 	private int playerId;
 	private String playerName;
 	private String teamName;
-	private String age;
+	private int age;
 
 	public Player() {
 		
 	}
 
-	public Player(int playerId, String playerName, String teamName, String age) {
+	public Player(int playerId, String playerName, String teamName, int i) {
 		super();
 		this.playerId = playerId;
 		this.playerName = playerName;
 		this.teamName = teamName;
-		this.age = age;
+		this.age = i;
 	}
 
 	public int getPlayerId() {
@@ -51,11 +51,11 @@ public class Player {
 		this.teamName = teamName;
 	}
 
-	public String getAge() {
+	public int getAge() {
 		return age;
 	}
 
-	public void setAge(String age) {
+	public void setAge(int age) {
 		this.age = age;
 	}
 
